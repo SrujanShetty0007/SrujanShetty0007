@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 💻 Full-Stack MERN Developer | Frontend Specialist | Passionate Problem Solver I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a strong foundation in modern frontend development. I bring creativity and precision to building clean, responsive, and user-friendly interfaces. Currently expanding my expertise in backend technologies to build fully scalable, dynamic web applications from end to end. Driven by curiosity and a love for building impactful digital experiences, I thrive on turning ideas into interactive web solutions.
+🔭 💻 Aspiring Full-Stack Developer| MERN Developer | Frontend Specialist | Passionate Problem Solver I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a strong foundation in modern frontend development. I bring creativity and precision to building clean, responsive, and user-friendly interfaces. Currently expanding my expertise in backend technologies to build fully scalable, dynamic web applications from end to end. Driven by curiosity and a love for building impactful digital experiences, I thrive on turning ideas into interactive web solutions.
 
 
 ## 🌐 Socials:
